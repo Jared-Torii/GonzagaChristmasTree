@@ -1,0 +1,30 @@
+.buttongroup{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 0;
+}
+
+.b1{
+    height:100px;
+    width: 100%;
+    background-color: #A4C8E1;
+}
+
+.b2{
+    height: 100px;
+    width: 100%;
+    background-color: #A4C8E1
+}
+
+.b3{
+    height: 100px;
+    width: 100%;
+    background-color: #A4C8E1
+}
+
+.b4{
+    height: 100px;
+    width: 100%;
+    background-color: #A4C8E1
+}
