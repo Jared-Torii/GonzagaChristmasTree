@@ -13,7 +13,6 @@ function App() {
       <Buttons/>
       <ColorPicker/>
       <ChristmasTree />
-
     </div>
   ); 
 }

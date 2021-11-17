@@ -14,7 +14,8 @@ function Buttons() {
     )
 
 
-    function f1(){
+    
+    function f1(message){
         alert('test 1');
     }
 
